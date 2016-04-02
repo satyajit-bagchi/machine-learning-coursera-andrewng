@@ -1,5 +1,4 @@
-# Machine_learning_AndrewNg
-Code for machine learning exercises
+# Machine learning repo
 
 My submissions for Andrew Ng's machine learning [class](https://www.coursera.org/learn/machine-learning).
 Includes exercises on Linear regression, polynomial regression, neural networks, logistic regression, support vector machines, 
